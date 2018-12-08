@@ -23,7 +23,7 @@ echo "service started"
 #download ngrok 
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip -O ngrok-stable-linux-amd64.zip
 unzip ngrok-stable-linux-amd64.zip
-./ngrok authtoken 5BrWhCkdd6HPifki8Lnup_81PGs5sz8pQXiFroHgUyv
+./ngrok authtoken 3mnGUgXZDkm5jUzU8K1B6_7AMQ72jQjbSyKjCZFMk1L
 echo "ngrok stated"
 
 #install libs.
